@@ -1,7 +1,11 @@
 <script>
+    import HaeMuistiinpanot from "./haeMuistiinpanot.svelte";
     import Opintojaksot from "./opintojaksot.svelte";
 </script>
 
-<h1>NotesApp</h1>
+<a href="../CreateNotes">Create notes for class</a> <br>
+<a class="nappula" href="../ListaaMuistiinpanot"> List notes </a> <br>
+<a href="../AddCourse">Add courses</a> <br>
 
-<Opintojaksot />
+<style>
+</style>
