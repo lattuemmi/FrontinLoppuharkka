@@ -1,5 +1,5 @@
-<a href="/">Etusivu</a>
-<a href="/Kurssit">Kurssit</a>
+<a href="/">Frontpage</a>
+<a href="/Kurssit">Courses</a>
 
 <h1>NotesApp</h1>
 

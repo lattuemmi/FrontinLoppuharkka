@@ -5,4 +5,6 @@
 
 <Header />
 
+<p>Here we can list the notes and at some point be able to filter through them</p>
+
 <HaeMuistiinpanot />

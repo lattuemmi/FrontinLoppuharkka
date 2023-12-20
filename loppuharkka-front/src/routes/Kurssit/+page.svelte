@@ -6,7 +6,6 @@
 
 <Header />
 
-<h1>NotesApp</h1>
  <h3>Kurssit</h3>
 
 <Opintojaksot />

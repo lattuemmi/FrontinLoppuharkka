@@ -3,3 +3,5 @@
 </script>
 
 <Header />
+
+<p>Here we will have the functionality to create notes</p>
