@@ -1,1 +1,1 @@
-<p> Muistiinpano sovellus by Emmi Lattu</p>
+<p> Y-Tunnus </p>

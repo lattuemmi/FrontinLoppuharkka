@@ -6,7 +6,7 @@
 
 <Header />
 
- <h3>Kurssit</h3>
+ <h2>Courses</h2> 
 
 <Opintojaksot />
 
