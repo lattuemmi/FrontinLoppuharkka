@@ -19,11 +19,16 @@
 
     haeOpintojaksot();
 
+
+    export {kurssiLista};
+
 </script>
 
 
-{#each kurssiLista as kurssi}
-        <Kurssi {...kurssi} />
-{/each}
+<ol>
+    {#each kurssiLista as kurssi}
+        <Kurssi id={kurssi.id} name={kurssi.name} />
+    {/each}
 
+</ol>
 

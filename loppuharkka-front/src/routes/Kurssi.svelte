@@ -7,5 +7,6 @@
 
 <div>
     <h3>{name}</h3>
+    <p>ID: {id}</p>
     <p>Tähän pitäis sit tulla ne muistiinpanotki</p>
 </div>
