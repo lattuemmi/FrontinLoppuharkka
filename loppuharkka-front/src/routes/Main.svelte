@@ -1,6 +1,5 @@
 <script>
-    import HaeMuistiinpanot from "./haeMuistiinpanot.svelte";
-    import Opintojaksot from "./opintojaksot.svelte";
+
 </script>
 
 <a href="../CreateNotes">Create notes for class</a> <br>
