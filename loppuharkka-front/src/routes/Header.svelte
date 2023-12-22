@@ -1,5 +1,5 @@
 <a href="/">Frontpage</a>
-<a href="/Kurssit">Courses</a>
+<a href="./Courses">Courses</a>
 
 <h1>NotesApp</h1>
 
