@@ -1,6 +1,7 @@
 Tässä on muistiinpano sovellus. 
 
 
-Tässä lista kaikista nettisivuista mitä käytin ohjelman koodaamiseen ( poissuljettuna  moodle ja opettajan antamat resurssit):
+Palautus uusintaoikeuteen. 
+En nyt ala mitään selitteleen, ( selittelen vähän kuitenkin) mutta hampaanpoistosta parantuminen olikin paljon fyysisesti verottavampi kokemus kuin olin palautus deadlineja ajatellessa osannut ottaa huomioon. 
 
-https://sveltesociety.dev/recipes/component-recipes/using-fetch-to-consume-apis
+Hyvää uutta vuotta ja tammikuussa uuestaan!!

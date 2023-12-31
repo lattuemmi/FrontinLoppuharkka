@@ -1,10 +1,11 @@
 <script>
-    import {kurssit} from '$lib/kurssiStore';
-	import Header from '../Header.svelte';
+    import { kurssit } from '$lib/kurssiStore';
+
+
+    console.log("kurssit", kurssit);
+    
 </script>
 
-<Header />
-
-{#each $kurssit as kurssi (kurssi.id)}
+{#each kurssit as kurssi (kurssi.id)}
     <p>{kurssi.name}</p>
 {/each}
